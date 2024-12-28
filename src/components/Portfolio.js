@@ -1,5 +1,5 @@
 import React from 'react';
-import { Instagram, Mail, Play, Pause, Twitter, TwitterIcon } from 'lucide-react';
+import { Mail, Play, Pause, TwitterIcon } from 'lucide-react';
 import logoImage from '../assets/logosameer.png';
 
 const Portfolio = () => {
